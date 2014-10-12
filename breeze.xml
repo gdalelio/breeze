@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Pre-Processor>
+        <className>org.soabridge.breeze.config.test.Pre1</className>
+        <className>org.soabridge.breeze.config.test.Pre1</className>
+    </Pre-Processor>
+     <Post-Processor>
+         <className>org.soabridge.breeze.config.test.Post1</className>
+         <className>org.soabridge.breeze.config.test.Post2</className>
+    </Post-Processor>
+    <HiveName>Geoff</HiveName>
+    <Version>1.0</Version>
+</Configuration>
